@@ -4,6 +4,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 [Download Assignment Here](PPFSQL-Homework.pdf)
 [View Assignment Video Here](https://youtu.be/J9G-3uyy1Tg)
 # Postman Screenshot
-![postman request output](screenshots/postMan2.jpg)
+"screenshots/postMan2.jpg"[postman request output](screenshots/postMan2.jpg)
 # SQL Data Screenshot
 ![pycharm data query](screenshots/citiesImport.jpg)
